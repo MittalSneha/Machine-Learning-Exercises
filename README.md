@@ -1,5 +1,5 @@
 # Artificial Intelligence in Computational Chemistry and Materials Science  
-## Sample Exercises Repository (For Academic Review)
+## Sample Exercises Repository 
 
 This private repository contains **representative sample exercises** prepared in support of the proposed course:
 

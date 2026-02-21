@@ -12,7 +12,7 @@ The complete course materials will be **revised and expanded** based on academic
 
 ---
 
-## Course Objective
+## Objective
 
 The proposed course introduces **machine learning and artificial intelligence methods tailored for chemistry and materials science applications**. Students Will learn regression, classification, clustering, dimensionality reduction, feature engineering, and interpretable AI techniques, and apply them to **molecular property prediction, materials data analysis, and scientific decision-making**.
 
@@ -32,32 +32,6 @@ This repository contains a **subset of instructional notebooks** demonstrating:
 These exercises are **not exhaustive** and do not represent the final course deliverables.
 
 ---
-
-
-## Relation to Proposed Course Modules
-
-The sample notebooks broadly correspond to the following modules:
-
-- **Module 1:** Machine learning foundations and model evaluation  
-- **Module 2:** Regression and classification for molecular and materials data  
-- **Module 3:** Clustering and dimensionality reduction for chemical space analysis  
-- **Module 5:** Interpretable AI methods (SHAP-based analysis)  
-- **Module 6:** Components of an end-to-end ML pipeline  
-
-Advanced deep learning models and research-level topics are **not fully included** in this repository.
-
----
-
-## Adaptability Across Levels
-
-- **Undergraduate students:** Guided notebooks using standard ML algorithms and simplified datasets  
-- **Graduate students:** Domain-specific workflows and performance analysis  
-- **Doctoral students:** Extension toward advanced AI methods, uncertainty quantification, and research-driven applications  
-
-The final course depth and assessment will be tailored accordingly.
-
----
-
 ## Tools and Execution
 
 The notebooks are designed to run using:
@@ -75,6 +49,6 @@ No proprietary software is required.
 
 ## Notes
 - The materials shown here are **sample exercises**, not a complete course package.
-- The final version of the course will incorporate **additional datasets, advanced models, and capstone projects**.
+- The final version of will incorporate **additional datasets, advanced models, and capstone projects**.
 
 

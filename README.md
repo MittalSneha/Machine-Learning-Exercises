@@ -74,8 +74,6 @@ No proprietary software is required.
 ---
 
 ## Notes
-
-- This repository is **private** and intended solely for **academic evaluation**.
 - The materials shown here are **sample exercises**, not a complete course package.
 - The final version of the course will incorporate **additional datasets, advanced models, and capstone projects**.
 
